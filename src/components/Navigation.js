@@ -15,22 +15,22 @@ export default function Navigation() {
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active">
             <a className="nav-link" href="#home">
-              <span className="fa fa-home fa-lg"></span>Home
+              <span className="fa fa-home fa-lg"></span>H
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#new">
-              <span className="fa fa-list fa-lg"></span>New
+              <span className="fa fa-list fa-lg"></span>
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#about">
-              <span className="fa fa-info fa-lg"></span>About
+              <span className="fa fa-info fa-lg"></span>Ab
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#contact">
-              <span className="fa fa-address-card fa-lg"></span>Contact
+              <span className="fa fa-address-card fa-lg"></span>Cont
             </a>
           </li>
         </ul>
